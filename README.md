@@ -9,3 +9,12 @@ or
 using an enviroment with pyturtle such as REPLIT...
 
 Jia Le
+
+# Change Color
+
+you can change line and background color by :
+
+s.bgcolor('black')
+t.pencolor('white')
+
+You can change any color by change the color name.
